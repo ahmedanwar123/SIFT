@@ -16,7 +16,7 @@ project/
 │
 ├── query.png          # Object to detect
 ├── target.jpg         # Image containing the object
-├── cocacola.mp4       # Video for real-time object detection
+├── video.mp4       # Video for real-time object detection
 └── SIFT.ipynb         # Main Python script
 ```
 
